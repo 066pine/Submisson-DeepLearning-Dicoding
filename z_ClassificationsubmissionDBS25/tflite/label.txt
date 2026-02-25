@@ -1,0 +1,4 @@
+gajah
+anjing
+ayam
+kucing
